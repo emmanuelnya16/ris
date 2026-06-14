@@ -1,0 +1,6 @@
+{
+  "name": "Rousseau International School",
+  "description": "Prestige Cambridge & IB school in Douala, Cameroon. English educational Excellence and Language Certification Center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
